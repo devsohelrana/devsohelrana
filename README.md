@@ -13,6 +13,7 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sohelrana@gmail.com)
 
 ---
+
 ### Design Tools
 
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
@@ -42,7 +43,12 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 
 ### Work Space
 
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)](#)
+[![Obsidian Badge](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](#)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](#)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](#)
 
 ### Version Control
 
@@ -51,6 +57,7 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
 ---
+
 <img src="https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=radical" style="width: 100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut-vertical)](https://github.com/devsohelrana)
