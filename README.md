@@ -1,6 +1,6 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there <img src="assets/hello.gif" width="28px" alt="hi">
 
 I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects. Coding is my passion.
 
@@ -12,8 +12,7 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devsohelrana)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sohelrana@gmail.com)
 
-## Things I code with
-
+---
 ### Design Tools
 
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
@@ -52,7 +51,6 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
 ---
-
 <img src="https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=radical" style="width: 100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut-vertical)](https://github.com/devsohelrana)
