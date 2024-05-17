@@ -51,6 +51,6 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
-![Sohel Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=radical" style="width: 100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut-vertical)](https://github.com/devsohelrana)
