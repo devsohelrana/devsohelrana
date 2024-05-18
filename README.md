@@ -62,10 +62,26 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut-vertical)](https://github.com/devsohelrana) -->
 
-<div style="display: flex">
-
-![Sohel Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut-vertical)](https://github.com/devsohelrana)
-
 </div>
+
+<table>
+
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsohelrana&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsohelrana&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+
+</table>
