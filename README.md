@@ -82,4 +82,4 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsohelrana&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsohelrana&theme=dark&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
