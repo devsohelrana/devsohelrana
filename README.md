@@ -13,7 +13,7 @@ I'm Sohel Rana, a Full Stack Web Application Developer from <img src="assets/ban
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sohelrana@gmail.com)
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsohelrana&theme=dark&hide_border=true&border_radius=4.3&card_width=1000)](#)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devsohelrana&theme=dark&hide_border=true&border_radius=4.3&card_width=1000)](https://git.io/streak-stats)
 
 ### Design Tools
 
